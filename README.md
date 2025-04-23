@@ -1,22 +1,27 @@
-# Welcome to your Lovable project
+# 🚀 Welcome to Your Project
+
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Version](https://img.shields.io/badge/version-1.0.0-yellow)
+![Made with ❤️](https://img.shields.io/badge/made%20with-%E2%9D%A4%EF%B8%8F-red)
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/caa800c9-9187-4ecf-94f7-93b8316b9b06
+**URL**: https://your-project-url.example.com
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
-**Use Lovable**
+**Use the Web Interface**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/caa800c9-9187-4ecf-94f7-93b8316b9b06) and start prompting.
+Simply visit your project dashboard and start prompting.
 
-Changes made via Lovable will be committed automatically to this repo.
+Changes made via the web interface will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in the web interface.
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
@@ -62,12 +67,12 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/caa800c9-9187-4ecf-94f7-93b8316b9b06) and click on Share -> Publish.
+Simply open your project dashboard and click on Share -> Publish.
 
-## Can I connect a custom domain to my Lovable project?
+## Can I connect a custom domain to my project?
 
 Yes, you can!
 
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Read more here: [Setting up a custom domain](https://docs.example.com/tips-tricks/custom-domain#step-by-step-guide)
